@@ -5,4 +5,4 @@ hi there, i'm <b>latte</b> ☕<br>
 ✦ based in east coast usa <br>
 ✦ not currently working on any bots <br>
 
-![my skills](https://skillicons.dev/icons?i=ae,ps,ts,js,mongodb,postgres,prisma,html,css,discordjs,nodejs,nextjs,react,tailwind,git)
+![my skills](https://skillicons.dev/icons?i=bash,ts,js,linux,mongodb,postgres,prisma,html,css,discordjs,nodejs,nextjs,react,tailwind,git)
